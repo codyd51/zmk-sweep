@@ -20,7 +20,7 @@
 		#define SETTINGS 6
 // -----------------
 
-&out OUT_BLE;
+//&out OUT_BLE;
 
 &mt {
    //  flavor = "tap-preferred";
